@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    if list
+        h3 Crime List
+        for item in list
+            p #{item.crime.category}
