@@ -6,3 +6,5 @@ Do not create a new project. Create the following endpoints:
 - Delete by persistent_id
 
 Style a Pug view so the user know their request when through or there was an error.
+<hr>
+1 point. The update route is not asking for the correct number of attributes, it's not being updated correctly, and it's not working.
